@@ -29,9 +29,7 @@
 ---
 ## **Архитектура**
 
-### C4-модель
-
-Иллюстрация и описание архитектура ПС
+![с43](https://github.com/user-attachments/assets/7c05e565-8982-4f5f-87ba-4f13bbe1a522)
 
 ### Схема данных
 
@@ -43,12 +41,14 @@
 
 ### Диаграмма вариантов использования
 
-Диаграмма вариантов использования и ее описание
+![image](https://github.com/user-attachments/assets/013a4a9d-6deb-47fd-a779-8219d0d69386)
+
 
 ### User-flow диаграммы
 
-Описание переходов между части ПС для всех ролей из диаграммы ВИ (название ролей должны совпадать с тем, что указано на c4-модели и диаграмме вариантов использования)
-
+![image](https://github.com/user-attachments/assets/5b272430-170e-4340-90dd-d99666226e22)
+![image](https://github.com/user-attachments/assets/fe50566c-e55a-4304-af3e-f78b13f6fad4)
+![image](https://github.com/user-attachments/assets/0de5208a-7db0-4761-9156-dbbed34a3eab)
 
 ---
 
@@ -56,7 +56,9 @@
 
 ### UML-диаграммы
 
-Представить все UML-диаграммы , которые позволят более точно понять структуру и детали реализации ПС
+![последовательности](https://github.com/user-attachments/assets/04713e2a-d34c-424a-bb91-932742713e23)
+![состояний](https://github.com/user-attachments/assets/81839bf2-e72c-4933-b021-bee995a93815)
+
 
 ### Спецификация API
 
